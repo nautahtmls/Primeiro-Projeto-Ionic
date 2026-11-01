@@ -2,3 +2,16 @@
     display: flex;
 }
 
+.img_gabriel {
+    margin: auto;
+}
+
+.cabecalho_card {
+    display: block;
+    text-align: center;
+}
+
+.img_paisagem {
+    width: 300px;
+    margin: auto;
+}
